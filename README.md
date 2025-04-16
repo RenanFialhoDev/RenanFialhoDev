@@ -11,13 +11,11 @@
   <img align="right" top="300" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-* 🔭 Atualmente trabalho na <a href="https://sis-it.com/" target="blank">SIS Innov & Tech</a>
+* 🔭 Atualmente trabalho na <a href="[https://sis-it.com/](https://www.gft.com/br/pt)" target="blank">GFT</a>
 
 * 🌱 Desenvolvedor Mobile (Ionic)
 
-* 🤝 Pós-Graduando em Desenvolvimento de Aplicativos Móveis no <a href="https://www.ifpi.edu.br/">IFPI Parnaíba</a>
-
-* 🌱 Aprimorando conhecimentos de Angular <a href="https://www.dio.me/bootcamp/coding-future-banco-pan-desenvolvimento-frontend-com-angular" target="blank">Coding The Future Banco PAN - Desenvolvimento Frontend com Angular</a>
+* 🤝 Pós-Graduado em Desenvolvimento de Aplicativos Móveis no <a href="https://www.ifpi.edu.br/">IFPI Parnaíba</a>
 
 * 📝 Sempre estudando
 
